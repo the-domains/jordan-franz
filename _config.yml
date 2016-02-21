@@ -1,14 +1,8 @@
-layout_spectrum: 0.1052615
+layout_spectrum: 0
 color:
-  saturation: 0.0172496
-  brandStrength: 0.8261649
+  saturation: 0.6236559
+  brandStrength: 0.8046595
   lightness: 0.7345629
-  rhythmicContrast: 0.1797511
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-typography_spectrum: 0.2103644
+  rhythmicContrast: 0.2508961
+typography_spectrum: 0.04301075
 name: 'Jordan Franz '
