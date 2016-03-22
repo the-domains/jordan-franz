@@ -1,8 +1,28 @@
+name: 'Jordan Franz '
+favicon: null
 layout_spectrum: 0
+typography_spectrum: 0.04301075
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6236559
+  brandColors:
+    - '#bddecd'
+    - '#84b4b4'
+    - '#a67da9'
+    - '#f8953a'
+    - '#50587f'
   brandStrength: 0.8046595
   lightness: 0.7345629
+  saturation: 0.6236559
   rhythmicContrast: 0.2508961
-typography_spectrum: 0.04301075
-name: 'Jordan Franz '
+purpose: []
